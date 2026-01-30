@@ -27,13 +27,8 @@ This project aims to track and compare the feature set between the many differen
 
 ## Star History
 
-<a href="https://www.star-history.com/#kovidgoyal/calibre&janeczku/calibre-web&gotson/komga&Kareadita/Kavita&stumpapp/stump&crocodilestick/Calibre-Web-Automated&booklore-app/booklore&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kovidgoyal/calibre,janeczku/calibre-web,gotson/komga,Kareadita/Kavita,stumpapp/stump,crocodilestick/Calibre-Web-Automated,booklore-app/booklore&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kovidgoyal/calibre,janeczku/calibre-web,gotson/komga,Kareadita/Kavita,stumpapp/stump,crocodilestick/Calibre-Web-Automated,booklore-app/booklore&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kovidgoyal/calibre,janeczku/calibre-web,gotson/komga,Kareadita/Kavita,stumpapp/stump,crocodilestick/Calibre-Web-Automated,booklore-app/booklore&type=date&legend=top-left" />
- </picture>
-</a>
+> [!CAUTION]
+> Please review the data carefully. GitHub stars and other popularity signals can be manipulated (see: https://www.wired.com/story/github-stars-black-market-coders-cheat/), so treat rankings and perceived traction as potentially unreliable and prioritize verifiable features and documentation.
 
 > [!NOTE]
 > This list is not exhaustive and is provided on a best-effort basis.
