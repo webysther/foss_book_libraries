@@ -1,4 +1,4 @@
-# 📸 Free and OpenSource Book Libraries
+# 📖 Free and OpenSource Book Libraries
 
 There are many great free and open-source alternatives to closed source and/or paid book libraries. This project aims to track and compare the feature set between the many different options with a focus on 'Gratis' (free as in free beer) open source photo libraries. 'Libre' (free as in free speech) projects are also welcome, but will likely need to be submitted via a pull request since the time in testing each different project is significant.
 
