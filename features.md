@@ -72,7 +72,7 @@ Are existing book directory structures preserved and browsable?
 
 ## Shelfs
 
-Can shelf be created and organized?
+Can a custom curated by user list of books be created and organized?
 
 ## Sharing
 
