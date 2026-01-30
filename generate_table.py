@@ -58,6 +58,9 @@ def score_to_emoji(score):
         number = score_str.split("-")[1]
         emoji_num = emoji_numbers.get(number, number)
         return f"🚧{emoji_num}"
+    
+    if score_str == "wip":
+        return f"🚧"
 
     # Handle plain numbers - Green tick with number
     if score_str.isdigit():

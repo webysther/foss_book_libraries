@@ -97,6 +97,7 @@ The system automatically converts score values to an emoji representation:
 - `"10"` → ✅🔟 (perfect score - used sparingly)
 - `"-"` → ✅ Feature exists in at least a limited fashion
 - `"wip-1"` → 🚧1️⃣ (work in progress with rating of 1)
+- `"wip"` → 🚧 (work in progress)
 
 ### Data Validation
 

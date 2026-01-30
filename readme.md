@@ -30,10 +30,10 @@ This project aims to track and compare the feature set between the many differen
 | [Source Language](features.md#source-language) | ![GitHub top language](https://img.shields.io/github/languages/top/kovidgoyal/calibre) | ![GitHub top language](https://img.shields.io/github/languages/top/janeczku/calibre-web) | ![GitHub top language](https://img.shields.io/github/languages/top/gotson/komga) | ![GitHub top language](https://img.shields.io/github/languages/top/kareadita/kavita) | ![GitHub top language](https://img.shields.io/github/languages/top/stumpapp/stump) | ![GitHub top language](https://img.shields.io/github/languages/top/crocodilestick/calibre-web-automated) | ![GitHub top language](https://img.shields.io/github/languages/top/booklore-app/booklore) |
 | [License](features.md#license) | ![?](https://img.shields.io/github/license/kovidgoyal/calibre?label=%20) | ![?](https://img.shields.io/github/license/janeczku/calibre-web?label=%20) | ![?](https://img.shields.io/github/license/gotson/komga?label=%20) | ![?](https://img.shields.io/github/license/Kareadita/Kavita?label=%20) | ![?](https://img.shields.io/github/license/stumpapp/stump?label=%20) | ![?](https://img.shields.io/github/license/crocodilestick/Calibre-Web-Automated?label=%20) | ![?](https://img.shields.io/github/license/booklore-app/booklore?label=%20) |
 | [Demo](features.md#demo) | ❌ | ❌ | ❌ | ✅🔟 | ❌ | ❌ | ✅🔟 |
-| [Freeness](features.md#freeness) | ✅🔟 | ✅🔟 | ✅🔟 | [🚧5️⃣](https://wiki.kavitareader.com/kavita+/) | ✅🔟 | ✅🔟 | ✅🔟 |
+| [Freeness](features.md#freeness) | ✅🔟 | ✅🔟 | ✅🔟 | [🚧](https://wiki.kavitareader.com/kavita+/) | ✅🔟 | ✅🔟 | ✅🔟 |
 | [Mobile Upload](features.md#mobile-upload) | 🟡 | ✅ | 🟡 | ❌ | ❌ | ✅ | ✅ |
 | [Web App](features.md#web-app) | ✅ | ✅🔟 | ✅🔟 | ✅🔟 | ✅ | ✅🔟 | ✅🔟 |
-| [Android App](features.md#android-app) | ❌ | [🚧6️⃣](https://github.com/doen1el/calibre-web-companion) | 🟡 | ❌ | ❌ | [🚧6️⃣](https://github.com/doen1el/calibre-web-companion) | ❌ |
+| [Android App](features.md#android-app) | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | 🟡 | ❌ | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | ❌ |
 | [iOS App](features.md#ios-app) | ❌ | ❌ | 🟡 | ❌ | ❌ | ❌ | ❌ |
 | [Desktop App](features.md#desktop-app) | ✅🔟 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Annotations](features.md#annotations) | ✅ | ❌ | 🟡 | 🟡 | 🟡 | 🟡 | ✅ |
@@ -43,7 +43,7 @@ This project aims to track and compare the feature set between the many differen
 | [Shelfs](features.md#shelfs) | ✅ | ✅ | 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
 | [Sharing](features.md#sharing) | ✅ | ✅ | 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
 | [Search](features.md#search) | ✅🔟 | ✅🔟 | 🟡 | ✅ | 🟡 | ✅ | 🟡 |
-| [Full Text Search](features.md#full-text-search) | ✅8️⃣ | [🚧8️⃣](https://github.com/janeczku/calibre-web/pull/3531) | ✅ | ❌ | 🟡 | ❌ | 🟡 |
+| [Full Text Search](features.md#full-text-search) | ✅8️⃣ | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | ✅ | ❌ | 🟡 | ❌ | 🟡 |
 | [Duplicate Handling](features.md#duplicate-handling) | ✅🔟 | ✅5️⃣ | 🟡 | ❌ | 🟡 | ✅5️⃣ | 🟡 |
 | [User Defined Tags](features.md#user-defined-tags) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | ✅ |
 | [Docker Installation](features.md#docker-installation) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | [✅🔟](https://komga.org/docs/installation/docker) | [✅8️⃣](https://wiki.kavitareader.com/installation/docker/dockerhub/) | [✅6️⃣](https://www.stumpapp.dev/installation/docker) | [✅🔟](https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended) | [✅🔟](https://github.com/booklore-app/booklore#-deploy-with-docker) |
