@@ -33,7 +33,7 @@ This project aims to track and compare the feature set between the many differen
 | [Source Language](features.md#source-language) | ![GitHub top language](https://img.shields.io/github/languages/top/kovidgoyal/calibre) | ![GitHub top language](https://img.shields.io/github/languages/top/janeczku/calibre-web) | ![GitHub top language](https://img.shields.io/github/languages/top/gotson/komga) | ![GitHub top language](https://img.shields.io/github/languages/top/kareadita/kavita) | ![GitHub top language](https://img.shields.io/github/languages/top/stumpapp/stump) | ![GitHub top language](https://img.shields.io/github/languages/top/crocodilestick/calibre-web-automated) | ![GitHub top language](https://img.shields.io/github/languages/top/booklore-app/booklore) |
 | [License](features.md#license) | ![?](https://img.shields.io/github/license/kovidgoyal/calibre?label=%20) | ![?](https://img.shields.io/github/license/janeczku/calibre-web?label=%20) | ![?](https://img.shields.io/github/license/gotson/komga?label=%20) | ![?](https://img.shields.io/github/license/Kareadita/Kavita?label=%20) | ![?](https://img.shields.io/github/license/stumpapp/stump?label=%20) | ![?](https://img.shields.io/github/license/crocodilestick/Calibre-Web-Automated?label=%20) | ![?](https://img.shields.io/github/license/booklore-app/booklore?label=%20) |
 | [Demo](features.md#demo) | ❌ | ❌ | ❌ | [⭐](https://www.kavitareader.com/) | ❌ | ❌ | [⭐](https://github.com/booklore-app/booklore#-live-demo-explore-booklore-in-action) |
-| [Freeness](features.md#freeness) | ⭐ | ⭐ | ⭐ | [🚧](https://wiki.kavitareader.com/kavita+/) | ⭐ | ⭐ | ⭐ |
+| [Freeness](features.md#freeness) | ⭐ | ⭐ | ⭐ | [💰](https://wiki.kavitareader.com/kavita+/) | ⭐ | ⭐ | ⭐ |
 | [Mobile Upload](features.md#mobile-upload) | ❔ | ✅ | ❔ | ❌ | ❌ | ✅ | ✅ |
 | [Web App](features.md#web-app) | ✅ | ⭐ | ⭐ | ⭐ | ✅ | ⭐ | ⭐ |
 | [Android App](features.md#android-app) | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | ❔ | ❌ | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | ❌ |
@@ -85,7 +85,7 @@ This project aims to track and compare the feature set between the many differen
 A simple way to reward apps that focus on the most fundamental user experience: 
 reading smoothly, resuming where you left off, and finding content quickly, all within the same app.
 
-All need to happen in same app:
+All need to happen in same app and be free of charge:
 
 - Be able to open an ebook navegate to any page, close, open again and return to the same page.
 - Be able to open a comic cbz in streaming fashion.

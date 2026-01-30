@@ -55,7 +55,7 @@ This project aims to track and compare the feature set between the many differen
 A simple way to reward apps that focus on the most fundamental user experience: 
 reading smoothly, resuming where you left off, and finding content quickly, all within the same app.
 
-All need to happen in same app:
+All need to happen in same app and be free of charge:
 
 - Be able to open an ebook navegate to any page, close, open again and return to the same page.
 - Be able to open a comic cbz in streaming fashion.
