@@ -40,7 +40,7 @@ Tip: Hover over emoji for additional information (🔗 link to related issue, �
 | [Full Text Search](features.md#full-text-search) | ✅7️⃣ |
 | [Duplicate Handling](features.md#duplicate-handling) | ✅🔟 |
 | [User Defined Tags](features.md#user-defined-tags) | ✅🔟 |
-| [Docker Installation](features.md#docker-installation) | ❌ |
+| [Docker Installation](features.md#docker-installation) | https://docs.linuxserver.io/images/docker-calibre |
 | [Basic Editing](features.md#basic-editing) | ✅🔟 |
 | [Multiple User Support](features.md#multiple-user-support) | ❌ |
 | [Authentication Providers](features.md#authentication-providers) | ❌ |
