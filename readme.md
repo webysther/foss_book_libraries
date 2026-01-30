@@ -60,8 +60,6 @@ This project aims to track and compare the feature set between the many differen
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
 
-> Source: Start history in January of 2026 [star-history.com](https://star-history.com)
-
 ## Notes on specific projects
 
 - Calibre unlikely to be implemented fuzzy search: [Bug #2139316](https://bugs.launchpad.net/calibre/+bug/2139316)
@@ -112,6 +110,7 @@ TBA when one application passes level 1.
 > Please review the data carefully. [GitHub stars and other popularity signals can be manipulated](https://www.wired.com/story/github-stars-black-market-coders-cheat/), so treat rankings and perceived traction as potentially unreliable and prioritize verifiable features and documentation.
 
 <img src="https://raw.githubusercontent.com/webysther/foss_book_libraries/refs/heads/main/assets/stars/20260130.png" alt="Star History January of 2026"/>
+> Source: Start history in January of 2026 [star-history.com](https://star-history.com)
 
 ## Contributing
 
