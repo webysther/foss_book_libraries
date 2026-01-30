@@ -46,7 +46,7 @@ This project aims to track and compare the feature set between the many differen
 - Android/iOS/Desktop/Web App: Only if have an official app with support to reading without leaving the app.
 
 > [!IMPORTANT]
-> To help reduce bias, subjective scores are only assigned after the scoring methodology for that row has been defined.
+> To help reduce [bias](https://en.wikipedia.org/wiki/Bias), subjective scores are only assigned after the scoring methodology for that row has been defined.
 
 ### Books certification level 1 test 💎
 
