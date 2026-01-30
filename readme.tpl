@@ -1,11 +1,13 @@
 # 📖 Free and OpenSource Book Libraries
 
-There are many great free and open-source alternatives to closed source and/or paid book libraries. This project aims to track and compare the feature set between the many different options with a focus on 'Gratis' (free as in free beer) open source photo libraries. 'Libre' (free as in free speech) projects are also welcome, but will likely need to be submitted via a pull request since the time in testing each different project is significant.
+There are many great free and open-source alternatives to closed source and/or paid book libraries. 
+This project aims to track and compare the feature set between the many different options with a focus on 'Gratis' (free as in free beer) open source photo libraries. 
+'Libre' (free as in free speech) projects are also welcome, but will likely need to be submitted via a pull request since the time in testing each different project is significant.
 
 > [!WARNING]
 > This repository displays both objective and subjective measures of feature quality.
 
-## ⚖️ Comparison
+## Comparison
 
 ```text
 ✅ = Feature exists in at least a limited fashion
@@ -20,26 +22,27 @@ There are many great free and open-source alternatives to closed source and/or p
 
 {{COMPARISON_TABLE}}
 
-**Note:** This list is not exhaustive and is provided on a best-effort basis. No guarantees are made about its accuracy or completeness. If you find an error or omission, please report it and submit a fix when possible.
+> [!NOTE]
+> This list is not exhaustive and is provided on a best-effort basis.
+> No guarantees are made about its accuracy or completeness.
+> If you find an error or omission, please report it and submit a fix when possible.
 
-For links and references related to library e-book projects, see:
+## References related to library e-book projects, see:
 
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books)
+- [HTML version of this comparison](https://webysther.github.io/foss_book_libraries/)
 
-> [!NOTE]
-> Check HTML version of this comparison table [here](https://webysther.github.io/foss_book_libraries/)
-
-## 👋 More Feature Comparisons
+## More Feature Comparisons
 
 Check out other comparisons:
 
 📝 [foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. Please see [CONTRIBUTE.md](CONTRIBUTE.md) for details.
 
-## 🆘 Support
+## Support
 
 Maintaining this list takes time. If you found this comparison useful, consider supporting via [GitHub Sponsors](https://github.com/sponsors/webysther)
 ````
