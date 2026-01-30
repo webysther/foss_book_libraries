@@ -35,7 +35,8 @@ This project aims to track and compare the feature set between the many differen
 > [!CAUTION]
 > Please review the data carefully. [GitHub stars and other popularity signals can be manipulated](https://www.wired.com/story/github-stars-black-market-coders-cheat/), so treat rankings and perceived traction as potentially unreliable and prioritize verifiable features and documentation.
 
-<img src="https://raw.githubusercontent.com/foss_book_libraries/main/assets/start-history/star-history-2026130.png"  alt="Star History January of 2026"/>
+<img src="https://raw.githubusercontent.com/webysther/foss_book_libraries/main/assets/stars/20260130.png" alt="Star History January of 2026"/>
+
 > Source: Start history in January of 2026 [star-history.com](https://star-history.com)
 
 ## Notes on specific projects
