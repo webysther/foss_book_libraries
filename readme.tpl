@@ -33,6 +33,7 @@ This project aims to track and compare the feature set between the many differen
 
 - Calibre unlikely to be implemented fuzzy search: [Bug #2139316](https://bugs.launchpad.net/calibre/+bug/2139316)
 - Booklore Full Text Search is not planned: [Issue 1793](https://github.com/booklore-app/booklore/issues/1793#issuecomment-3700847691)
+- Komga iOS App is a third party app called Komic with paid features.
 
 ## Score Methodology; or how to got ⭐
 

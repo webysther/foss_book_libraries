@@ -94,7 +94,8 @@ Each feature defines a row in the comparison table:
 The system automatically converts score values to an emoji representation:
 - `"xx"` → 💀 (not planned)
 - `"x"` → ❌ (not available)
-- `"?"` → 🟡 (unknown information)
+- `"?"` → ❔ (unknown information)
+- `"$$$"` → 💰 (paid feature in some level)
 - `"wip"` → 🚧 (work in progress)
 - `"wip-1"` → 🚧1️⃣ (work in progress with rating of 1)
 - `"-"` → ✅ Feature exists in at least a limited fashion

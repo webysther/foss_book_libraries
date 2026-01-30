@@ -36,7 +36,7 @@ This project aims to track and compare the feature set between the many differen
 | [Mobile Upload](features.md#mobile-upload) | ❔ | ✅ | ❔ | ❌ | ❌ | ✅ | ✅ |
 | [Web App](features.md#web-app) | ✅ | ⭐ | ⭐ | ⭐ | ✅ | ⭐ | ⭐ |
 | [Android App](features.md#android-app) | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | ❔ | ❌ | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | ❌ |
-| [iOS App](features.md#ios-app) | ❌ | ❌ | ❔ | ❌ | ❌ | ❌ | ❌ |
+| [iOS App](features.md#ios-app) | ❌ | ❌ | [💰](https://komga.org/docs/guides/komic/) | ❌ | ❌ | ❌ | ❌ |
 | [Desktop App](features.md#desktop-app) | ⭐ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Annotations](features.md#annotations) | ✅ | ❌ | ❔ | ❔ | ❔ | ❔ | ✅ |
 | [OPDS Support](features.md#opds-support) | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
@@ -63,6 +63,7 @@ This project aims to track and compare the feature set between the many differen
 
 - Calibre unlikely to be implemented fuzzy search: [Bug #2139316](https://bugs.launchpad.net/calibre/+bug/2139316)
 - Booklore Full Text Search is not planned: [Issue 1793](https://github.com/booklore-app/booklore/issues/1793#issuecomment-3700847691)
+- Komga iOS App is a third party app called Komic with paid features.
 
 ## Score Methodology; or how to got ⭐
 
@@ -76,7 +77,7 @@ This project aims to track and compare the feature set between the many differen
 - Android/iOS/Desktop/Web App: Only if have an official app with support to reading without leaving the app.
 
 > [!IMPORTANT]
-> To help reduce bias, subjective scores are only assigned after the scoring methodology for that row has been defined.
+> To help reduce [bias](https://en.wikipedia.org/wiki/Bias), subjective scores are only assigned after the scoring methodology for that row has been defined.
 
 ### Books certification level 1 test 💎
 
