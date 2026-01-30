@@ -83,7 +83,7 @@ TBA when one application passes level 1.
 
 > Sources: 
 > - Start history: January of 2026 [star-history.com](https://star-history.com)
-> - Wired: [The GitHub Black Market That Helps Coders Cheat the Popularity Contest]((https://web.archive.org/web/20260130143116/https://www.wired.com/story/github-stars-black-market-coders-cheat/))
+> - Wired: [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://web.archive.org/web/20260130143116/https://www.wired.com/story/github-stars-black-market-coders-cheat/)
 
 ## Contributing
 
