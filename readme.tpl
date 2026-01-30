@@ -45,7 +45,8 @@ This project aims to track and compare the feature set between the many differen
 - Duplicate Handling: Only if support duplicate detection and merging.
 - Android/iOS/Desktop/Web App: Only if have an official app with support to reading without leaving the app.
 
-PS: To reduce bias, subjective scores are only given after score methodology is applied for the row.
+> [!IMPORTANT]
+> To help reduce bias, subjective scores are only assigned after the scoring methodology for that row has been defined.
 
 ## References and links
 
