@@ -34,6 +34,8 @@ This project aims to track and compare the feature set between the many differen
 - Full Text Search: Got 10 only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
 [fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching).
 - Docker installation: Got 10 only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
+- Duplicate Handling: Got 10 only if support duplicate detection and merging.
+- Android/iOS/Desktop/Web App: Got 10 only if have an official app with support to reading without leaving the app.
 
 ## References and links
 

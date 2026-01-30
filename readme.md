@@ -31,25 +31,25 @@ This project aims to track and compare the feature set between the many differen
 | [License](features.md#license) | ![?](https://img.shields.io/github/license/kovidgoyal/calibre?label=%20) | ![?](https://img.shields.io/github/license/janeczku/calibre-web?label=%20) | ![?](https://img.shields.io/github/license/gotson/komga?label=%20) | ![?](https://img.shields.io/github/license/Kareadita/Kavita?label=%20) | ![?](https://img.shields.io/github/license/stumpapp/stump?label=%20) | ![?](https://img.shields.io/github/license/crocodilestick/Calibre-Web-Automated?label=%20) | ![?](https://img.shields.io/github/license/booklore-app/booklore?label=%20) |
 | [Demo](features.md#demo) | ❌ | ❌ | ❌ | ✅🔟 | ❌ | ❌ | ✅🔟 |
 | [Freeness](features.md#freeness) | ✅🔟 | ✅🔟 | ✅🔟 | [🚧5️⃣](https://wiki.kavitareader.com/kavita+/) | ✅🔟 | ✅🔟 | ✅🔟 |
-| [Mobile Upload](features.md#mobile-upload) | 🟡 | ✅5️⃣ | 🟡 | ❌ | ❌ | ✅5️⃣ | ✅🔟 |
-| [Web App](features.md#web-app) | ✅5️⃣ | ✅🔟 | ✅🔟 | ✅🔟 | ✅🔟 | ✅🔟 | ✅🔟 |
+| [Mobile Upload](features.md#mobile-upload) | 🟡 | ✅ | 🟡 | ❌ | ❌ | ✅ | ✅ |
+| [Web App](features.md#web-app) | ✅ | ✅🔟 | ✅🔟 | ✅🔟 | ✅ | ✅🔟 | ✅🔟 |
 | [Android App](features.md#android-app) | ❌ | [🚧6️⃣](https://github.com/doen1el/calibre-web-companion) | 🟡 | ❌ | ❌ | [🚧6️⃣](https://github.com/doen1el/calibre-web-companion) | ❌ |
 | [iOS App](features.md#ios-app) | ❌ | ❌ | 🟡 | ❌ | ❌ | ❌ | ❌ |
 | [Desktop App](features.md#desktop-app) | ✅🔟 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Annotations](features.md#annotations) | ✅7️⃣ | ❌ | 🟡 | 🟡 | 🟡 | 🟡 | ✅7️⃣ |
-| [OPDS Support](features.md#opds-support) | ✅8️⃣ | ✅9️⃣ | ✅9️⃣ | ✅9️⃣ | ❌ | ✅9️⃣ | ✅9️⃣ |
-| [Reading Progress Sync](features.md#reading-progress-sync) | ✅🔟 | ✅6️⃣ | 🟡 | ✅8️⃣ | 🟡 | ✅6️⃣ | ✅🔟 |
-| [Existing Folders](features.md#existing-folders) | ✅8️⃣ | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
-| [Shelfs](features.md#shelfs) | ✅8️⃣ | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
-| [Sharing](features.md#sharing) | ✅5️⃣ | ✅7️⃣ | 🟡 | 🟡 | 🟡 | ✅7️⃣ | 🟡 |
-| [Search](features.md#search) | ✅8️⃣ | ✅8️⃣ | 🟡 | ✅8️⃣ | 🟡 | ✅8️⃣ | 🟡 |
-| [Full Text Search](features.md#full-text-search) | ✅7️⃣ | [🚧8️⃣](https://github.com/janeczku/calibre-web/pull/3531) | ✅5️⃣ | ❌ | 🟡 | ❌ | 🟡 |
+| [Annotations](features.md#annotations) | ✅ | ❌ | 🟡 | 🟡 | 🟡 | 🟡 | ✅ |
+| [OPDS Support](features.md#opds-support) | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| [Reading Progress Sync](features.md#reading-progress-sync) | ✅ | ✅ | 🟡 | ✅ | 🟡 | ✅ | ✅ |
+| [Existing Folders](features.md#existing-folders) | ✅ | ✅ | 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
+| [Shelfs](features.md#shelfs) | ✅ | ✅ | 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
+| [Sharing](features.md#sharing) | ✅ | ✅ | 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
+| [Search](features.md#search) | ✅🔟 | ✅🔟 | 🟡 | ✅ | 🟡 | ✅ | 🟡 |
+| [Full Text Search](features.md#full-text-search) | ✅8️⃣ | [🚧8️⃣](https://github.com/janeczku/calibre-web/pull/3531) | ✅ | ❌ | 🟡 | ❌ | 🟡 |
 | [Duplicate Handling](features.md#duplicate-handling) | ✅🔟 | ✅5️⃣ | 🟡 | ❌ | 🟡 | ✅5️⃣ | 🟡 |
-| [User Defined Tags](features.md#user-defined-tags) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | ✅🔟 |
+| [User Defined Tags](features.md#user-defined-tags) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | ✅ |
 | [Docker Installation](features.md#docker-installation) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | [✅🔟](https://komga.org/docs/installation/docker) | [✅8️⃣](https://wiki.kavitareader.com/installation/docker/dockerhub/) | [✅6️⃣](https://www.stumpapp.dev/installation/docker) | [✅🔟](https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended) | [✅🔟](https://github.com/booklore-app/booklore#-deploy-with-docker) |
 | [Basic Editing](features.md#basic-editing) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
-| [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅8️⃣ | 🟡 | ✅🔟 | 🟡 | ✅8️⃣ | ✅🔟 |
-| [Authentication Providers](features.md#authentication-providers) | ❌ | ✅8️⃣ | 🟡 | ✅8️⃣ | 🟡 | ✅8️⃣ | ✅🔟 |
+| [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅8️⃣ | 🟡 | ✅ | 🟡 | ✅8️⃣ | ✅ |
+| [Authentication Providers](features.md#authentication-providers) | ❌ | ✅8️⃣ | 🟡 | ✅ | 🟡 | ✅8️⃣ | ✅ |
 
 
 > [!NOTE]
@@ -64,6 +64,8 @@ This project aims to track and compare the feature set between the many differen
 - Full Text Search: Got 10 only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
 [fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching).
 - Docker installation: Got 10 only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
+- Duplicate Handling: Got 10 only if support duplicate detection and merging.
+- Android/iOS/Desktop/Web App: Got 10 only if have an official app with support to reading without leaving the app.
 
 ## References and links
 

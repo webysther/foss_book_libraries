@@ -21,6 +21,7 @@ def score_to_emoji(score):
         "x" → "❌"
         "?" → "🟡"
         "wip-3" → "🚧3️⃣"
+        "-" or - → "✅"
         "8" or 8 → "✅8️⃣"
         "10" or 10 → "✅🔟"
     """
@@ -48,6 +49,9 @@ def score_to_emoji(score):
     
     if score_str == "?":
         return "🟡"
+    
+    if score_str == "-":
+        return "✅"
 
     # Handle "wip-N" - Work in progress with number
     if score_str.startswith("wip-"):
