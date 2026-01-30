@@ -27,6 +27,12 @@ This project aims to track and compare the feature set between the many differen
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
 
+## Methodology
+
+- Freeness: Got 10 only without features limited to paid plans.
+- OPDS: Got 10 only if support OPDS 1 and 2.
+- Full Text Search: Got 10 only if support full text with fuzzy search.
+
 ## References and links
 
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books)

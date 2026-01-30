@@ -37,7 +37,7 @@ This project aims to track and compare the feature set between the many differen
 | [iOS App](features.md#ios-app) | ❌ | ❌ | 🟡 | ❌ | ❌ | ❌ | ❌ |
 | [Desktop App](features.md#desktop-app) | ✅🔟 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Annotations](features.md#annotations) | ✅7️⃣ | ❌ | 🟡 | 🟡 | 🟡 | 🟡 | ✅7️⃣ |
-| [OPDS Support](features.md#opds-support) | ✅8️⃣ | ✅9️⃣ | ✅9️⃣ | ✅9️⃣ | ❌ | ✅9️⃣ | ✅8️⃣ |
+| [OPDS Support](features.md#opds-support) | ✅8️⃣ | ✅9️⃣ | ✅9️⃣ | ✅9️⃣ | ❌ | ✅9️⃣ | ✅9️⃣ |
 | [Reading Progress Sync](features.md#reading-progress-sync) | ✅🔟 | ✅6️⃣ | 🟡 | ✅8️⃣ | 🟡 | ✅6️⃣ | ✅🔟 |
 | [Existing Folders](features.md#existing-folders) | ✅8️⃣ | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
 | [Shelfs](features.md#shelfs) | ✅8️⃣ | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
@@ -56,6 +56,12 @@ This project aims to track and compare the feature set between the many differen
 > This list is not exhaustive and is provided on a best-effort basis.
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
+
+## Methodology
+
+- Freeness: Got 10 only without features limited to paid plans.
+- OPDS: Got 10 only if support OPDS 1 and 2.
+- Full Text Search: Got 10 only if support full text with fuzzy search.
 
 ## References and links
 

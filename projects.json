@@ -192,7 +192,7 @@
       "ios_app": "x",
       "desktop_app": "x",
       "annotations": "7",
-      "opds_support": "8",
+      "opds_support": "9",
       "reading_progress_sync": "10",
       "existing_folders": "?",
       "shelfs": "?",
