@@ -85,7 +85,7 @@
       "full_text_search": "5",
       "duplicate_handling": "?",
       "user_defined_tags": "?",
-      "docker_installation": "?",
+      "docker_installation": "10",
       "basic_editing": "?",
       "multiple_user_support": "?",
       "authentication_providers": "?"

@@ -46,7 +46,7 @@ This project aims to track and compare the feature set between the many differen
 | [Full Text Search](features.md#full-text-search) | ✅7️⃣ | [🚧8️⃣](https://github.com/janeczku/calibre-web/pull/3531) | ✅5️⃣ | ❌ | 🟡 | ❌ | 🟡 |
 | [Duplicate Handling](features.md#duplicate-handling) | ✅🔟 | ✅5️⃣ | 🟡 | ❌ | 🟡 | ✅5️⃣ | 🟡 |
 | [User Defined Tags](features.md#user-defined-tags) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | ✅🔟 |
-| [Docker Installation](features.md#docker-installation) | [🚧6️⃣](https://docs.linuxserver.io/images/docker-calibre) | [🚧8️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | 🟡 | ✅🔟 | ✅🔟 | ✅🔟 | ✅🔟 |
+| [Docker Installation](features.md#docker-installation) | [🚧6️⃣](https://docs.linuxserver.io/images/docker-calibre) | [🚧8️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | ✅🔟 | ✅🔟 | ✅🔟 | ✅🔟 | ✅🔟 |
 | [Basic Editing](features.md#basic-editing) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
 | [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅8️⃣ | 🟡 | ✅🔟 | 🟡 | ✅8️⃣ | ✅🔟 |
 | [Authentication Providers](features.md#authentication-providers) | ❌ | ✅8️⃣ | 🟡 | ✅8️⃣ | 🟡 | ✅8️⃣ | ✅🔟 |
