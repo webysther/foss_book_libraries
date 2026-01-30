@@ -107,11 +107,13 @@ TBA when one application passes level 1.
 ## Star History
 
 > [!CAUTION]
-> Please review the data carefully. [GitHub stars and other popularity signals can be manipulated](https://www.wired.com/story/github-stars-black-market-coders-cheat/), so treat rankings and perceived traction as potentially unreliable and prioritize verifiable features and documentation.
+> Please review the data carefully. GitHub stars and other popularity signals can be manipulated, so treat rankings and perceived traction as potentially unreliable and prioritize verifiable features and documentation.
 
 <img src="https://raw.githubusercontent.com/webysther/foss_book_libraries/refs/heads/main/assets/stars/20260130.png" alt="Star History January of 2026"/>
 
-> Source: Start history in January of 2026 [star-history.com](https://star-history.com)
+> Sources: 
+> - Start history: January of 2026 [star-history.com](https://star-history.com)
+> - Wired: [The GitHub Black Market That Helps Coders Cheat the Popularity Contest]((https://web.archive.org/web/20260130143116/https://www.wired.com/story/github-stars-black-market-coders-cheat/))
 
 ## Contributing
 
