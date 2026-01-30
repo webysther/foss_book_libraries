@@ -46,7 +46,7 @@ This project aims to track and compare the feature set between the many differen
 | [Full Text Search](features.md#full-text-search) | ✅7️⃣ | [🚧8️⃣](https://github.com/janeczku/calibre-web/pull/3531) | ✅5️⃣ | ❌ | 🟡 | ❌ | 🟡 |
 | [Duplicate Handling](features.md#duplicate-handling) | ✅🔟 | ✅5️⃣ | 🟡 | ❌ | 🟡 | ✅5️⃣ | 🟡 |
 | [User Defined Tags](features.md#user-defined-tags) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | ✅🔟 |
-| [Docker Installation](features.md#docker-installation) | [🚧6️⃣](https://docs.linuxserver.io/images/docker-calibre) | [🚧8️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | ✅🔟 | ✅🔟 | ✅🔟 | ✅🔟 | ✅🔟 |
+| [Docker Installation](features.md#docker-installation) | [✅8️⃣](https://docs.linuxserver.io/images/docker-calibre) | [✅8️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | [✅🔟](https://komga.org/docs/installation/docker) | [✅9️⃣](https://wiki.kavitareader.com/installation/docker/dockerhub/) | [✅8️⃣](https://www.stumpapp.dev/installation/docker) | [✅🔟](https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended) | [✅🔟](https://github.com/booklore-app/booklore#-deploy-with-docker) |
 | [Basic Editing](features.md#basic-editing) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
 | [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅8️⃣ | 🟡 | ✅🔟 | 🟡 | ✅8️⃣ | ✅🔟 |
 | [Authentication Providers](features.md#authentication-providers) | ❌ | ✅8️⃣ | 🟡 | ✅8️⃣ | 🟡 | ✅8️⃣ | ✅🔟 |
@@ -57,11 +57,13 @@ This project aims to track and compare the feature set between the many differen
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
 
-## Methodology
+## Score Methodology
 
 - Freeness: Got 10 only if all features are free without payment or subscription.
-- OPDS: Got 10 only if support OPDS 1 and 2.
-- Full Text Search: Got 10 only if support full text with fuzzy search.
+- OPDS: Got 10 only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
+- Full Text Search: Got 10 only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
+[fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching).
+- Docker installation: Got 10 only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
 
 ## References and links
 

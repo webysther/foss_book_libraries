@@ -24,7 +24,7 @@
       "full_text_search": "7",
       "duplicate_handling": "10",
       "user_defined_tags": "10",
-      "docker_installation": "wip-6",
+      "docker_installation": "8",
       "docker_installation_url": "https://docs.linuxserver.io/images/docker-calibre",
       "basic_editing": "10",
       "multiple_user_support": "x",
@@ -56,7 +56,7 @@
       "full_text_search_url": "https://github.com/janeczku/calibre-web/pull/3531",
       "duplicate_handling": "5",
       "user_defined_tags": "8",
-      "docker_installation": "wip-8",
+      "docker_installation": "8",
       "docker_installation_url": "https://docs.linuxserver.io/images/docker-calibre-web",
       "basic_editing": "8",
       "multiple_user_support": "8",
@@ -86,6 +86,7 @@
       "duplicate_handling": "?",
       "user_defined_tags": "?",
       "docker_installation": "10",
+      "docker_installation_url": "https://komga.org/docs/installation/docker",
       "basic_editing": "?",
       "multiple_user_support": "?",
       "authentication_providers": "?"
@@ -114,7 +115,8 @@
       "full_text_search": "x",
       "duplicate_handling": "x",
       "user_defined_tags": "?",
-      "docker_installation": "10",
+      "docker_installation": "9",
+      "docker_installation_url": "https://wiki.kavitareader.com/installation/docker/dockerhub/",
       "basic_editing": "?",
       "multiple_user_support": "10",
       "authentication_providers": "8"
@@ -142,7 +144,8 @@
       "full_text_search": "?",
       "duplicate_handling": "?",
       "user_defined_tags": "?",
-      "docker_installation": "10",
+      "docker_installation": "8",
+      "docker_installation_url": "https://www.stumpapp.dev/installation/docker",
       "basic_editing": "?",
       "multiple_user_support": "?",
       "authentication_providers": "?"
@@ -173,6 +176,7 @@
       "duplicate_handling": "5",
       "user_defined_tags": "8",
       "docker_installation": "10",
+      "docker_installation_url": "https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended",
       "basic_editing": "8",
       "multiple_user_support": "8",
       "authentication_providers": "8"
@@ -202,6 +206,7 @@
       "duplicate_handling": "?",
       "user_defined_tags": "10",
       "docker_installation": "10",
+      "docker_installation_url": "https://github.com/booklore-app/booklore#-deploy-with-docker",
       "basic_editing": "?",
       "multiple_user_support": "10",
       "authentication_providers": "10"

@@ -27,11 +27,13 @@ This project aims to track and compare the feature set between the many differen
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
 
-## Methodology
+## Score Methodology
 
 - Freeness: Got 10 only if all features are free without payment or subscription.
-- OPDS: Got 10 only if support OPDS 1 and 2.
-- Full Text Search: Got 10 only if support full text with fuzzy search.
+- OPDS: Got 10 only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
+- Full Text Search: Got 10 only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
+[fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching).
+- Docker installation: Got 10 only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
 
 ## References and links
 
