@@ -9,6 +9,7 @@ There are many great free and open-source alternatives to closed source and/or p
 ```text
 ✅ = Feature exists in at least a limited fashion
 🚧 = Feature may exist but may not be practical or officially released
+🟡 = Unknown information (help needed!)
 ❌ = Feature does not yet exist
 #️⃣ = Subjective measure of feature quality (on scale of 0-10)
 Tip: Hover over emoji for additional information (🔗 link to related issue, 🔑 demo credentials, etc)
