@@ -27,16 +27,11 @@ This project aims to track and compare the feature set between the many differen
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
 
-## References related to library e-book projects, see:
+## References and links
 
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books)
 - [HTML version of this comparison](https://webysther.github.io/foss_book_libraries/)
-
-## More Feature Comparisons
-
-Check out other comparisons:
-
-📝 [foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries)
+- [FOSS Photo Libraries Comparison](https://github.com/meichthys/foss_photo_libraries)
 
 ## Contributing
 
