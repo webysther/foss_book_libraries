@@ -82,7 +82,7 @@ TBA when one application passes level 1.
 <img src="https://raw.githubusercontent.com/webysther/foss_book_libraries/refs/heads/main/assets/stars/20260130.png" alt="Star History January of 2026"/>
 
 > Sources: 
-> - Start history: January of 2026 [star-history.com](https://star-history.com)
+> - [Start history](https://star-history.com): January of 2026
 > - Wired: [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://web.archive.org/web/20260130143116/https://www.wired.com/story/github-stars-black-market-coders-cheat/)
 
 ## Contributing
