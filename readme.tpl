@@ -13,7 +13,7 @@ This project aims to track and compare the feature set between the many differen
 ⭐ = Full support (10/10 score)
 ✅ = Feature exists in at least a limited fashion
 🚧 = Feature may exist but may not be practical or officially released
-🟡 = Unknown information (help needed!)
+❔ = Unknown information (help needed!)
 ❌ = Feature does not yet exist
 #️⃣ = Subjective measure of feature quality (on scale of 0-10)
 ```
