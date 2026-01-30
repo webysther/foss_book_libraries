@@ -155,6 +155,21 @@ def generate_license_row(projects):
     row += "|\n"
     return row
 
+def generate_docker_row(projects):
+    """Generate docker row."""
+    row = "| [Docker Pulls](features.md#docker-pulls) "
+
+    for project in projects:
+        if "docker_custom" in project:
+            repo = project["docker_custom"]
+        else:
+            repo = project["repo"]
+        
+        badge = f"![?](https://img.shields.io/docker/pulls/{repo}?label=%20)"
+        row += f"| {badge} "
+
+    row += "|\n"
+    return row
 
 def generate_default_row(feature, projects):
     """
@@ -231,6 +246,9 @@ def generate_comparison_table(data):
 
             case "generate_license_row":
                 table += generate_license_row(projects)
+                
+            case "generate_docker_row":
+                table += generate_docker_row(projects)
 
             case _:
                 # Use default conversion for unknown or null processors
@@ -259,7 +277,7 @@ def validate_projects_json(data):
 
     # Check for undocumented keys
     # Build standard keys (fields that don't need to be in features)
-    standard_keys = {"name", "repo", "branch", "logo_url", "logo_alt", "license_custom"}
+    standard_keys = {"name", "repo", "branch", "logo_url", "logo_alt", "license_custom", "docker_custom"}
 
     # Build feature keys from features array
     feature_keys = set()

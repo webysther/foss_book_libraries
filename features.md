@@ -6,6 +6,10 @@ To clarify the definitions/meanings of the features that are included in the com
 
 The number of stars on the primary github (or other) source code repository.
 
+## Docker Pulls
+
+The number of docker pulls on the primary docker image repository.
+
 ## Contributors
 
 The number of contributors that have contributed to the project.
