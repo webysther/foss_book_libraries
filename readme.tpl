@@ -13,7 +13,7 @@ This project aims to track and compare the feature set between the many differen
 ⭐ = Full support (10/10 score)
 ✅ = Feature exists in at least a limited fashion
 🚧 = Feature may exist but may not be practical or officially released
-💰 = paid feature provided by third party or not
+💰 = paid feature (even if partial or optional)
 ❔ = Unknown information (help needed!)
 ❌ = Feature does not yet exist
 💀 = Not planned (no PRs accepted / unlikely to be implemented)
@@ -29,13 +29,6 @@ This project aims to track and compare the feature set between the many differen
 > This list is not exhaustive and is provided on a best-effort basis.
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
-
-## Star History
-
-> [!CAUTION]
-> Please review the data carefully. [GitHub stars and other popularity signals can be manipulated](https://www.wired.com/story/github-stars-black-market-coders-cheat/), so treat rankings and perceived traction as potentially unreliable and prioritize verifiable features and documentation.
-
-<img src="https://raw.githubusercontent.com/webysther/foss_book_libraries/refs/heads/main/assets/stars/20260130.png" alt="Star History January of 2026"/>
 
 > Source: Start history in January of 2026 [star-history.com](https://star-history.com)
 
@@ -81,6 +74,13 @@ TBA when one application passes level 1.
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books)
 - [HTML version of this comparison](https://webysther.github.io/foss_book_libraries/)
 - [FOSS Photo Libraries Comparison](https://github.com/meichthys/foss_photo_libraries)
+
+## Star History
+
+> [!CAUTION]
+> Please review the data carefully. [GitHub stars and other popularity signals can be manipulated](https://www.wired.com/story/github-stars-black-market-coders-cheat/), so treat rankings and perceived traction as potentially unreliable and prioritize verifiable features and documentation.
+
+<img src="https://raw.githubusercontent.com/webysther/foss_book_libraries/refs/heads/main/assets/stars/20260130.png" alt="Star History January of 2026"/>
 
 ## Contributing
 
