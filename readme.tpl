@@ -38,11 +38,14 @@ This project aims to track and compare the feature set between the many differen
 
 - Freeness: Only if all features are free without payment or subscription.
 - OPDS: Only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
+- Search: Only if support search by title, author, description and tags.
 - Full Text Search: Only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
 [fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching).
 - Docker installation: Only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
 - Duplicate Handling: Only if support duplicate detection and merging.
 - Android/iOS/Desktop/Web App: Only if have an official app with support to reading without leaving the app.
+
+PS: To reduce bias, subjective scores are only given after score methodology is applied for the row.
 
 ## References and links
 

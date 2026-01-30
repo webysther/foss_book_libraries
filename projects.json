@@ -55,13 +55,13 @@
       "search": "10",
       "full_text_search": "wip",
       "full_text_search_url": "https://github.com/janeczku/calibre-web/pull/3531",
-      "duplicate_handling": "5",
-      "user_defined_tags": "8",
+      "duplicate_handling": "-",
+      "user_defined_tags": "-",
       "docker_installation": "5",
       "docker_installation_url": "https://docs.linuxserver.io/images/docker-calibre-web",
-      "basic_editing": "8",
-      "multiple_user_support": "8",
-      "authentication_providers": "8"
+      "basic_editing": "-",
+      "multiple_user_support": "-",
+      "authentication_providers": "-"
     },
     {
       "name": "Komga",
@@ -173,15 +173,16 @@
       "existing_folders": "-",
       "shelfs": "-",
       "sharing": "-",
-      "search": "-",
-      "full_text_search": "x",
-      "duplicate_handling": "5",
-      "user_defined_tags": "8",
+      "search": "10",
+      "full_text_search": "wip",
+      "full_text_search_url": "https://github.com/janeczku/calibre-web/pull/3531",
+      "duplicate_handling": "-",
+      "user_defined_tags": "-",
       "docker_installation": "10",
       "docker_installation_url": "https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended",
-      "basic_editing": "8",
-      "multiple_user_support": "8",
-      "authentication_providers": "8"
+      "basic_editing": "-",
+      "multiple_user_support": "-",
+      "authentication_providers": "-"
     },
     {
       "name": "Booklore",

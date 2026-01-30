@@ -44,14 +44,14 @@ This project aims to track and compare the feature set between the many differen
 | [Existing Folders](features.md#existing-folders) | ✅ | ✅ | ❔ | ❔ | ❔ | ✅ | ❔ |
 | [Shelfs](features.md#shelfs) | ✅ | ✅ | ❔ | ❔ | ❔ | ✅ | ❔ |
 | [Sharing](features.md#sharing) | ✅ | ✅ | ❔ | ❔ | ❔ | ✅ | ❔ |
-| [Search](features.md#search) | ⭐ | ⭐ | ❔ | ✅ | ❔ | ✅ | ❔ |
-| [Full Text Search](features.md#full-text-search) | [✅8️⃣](https://bugs.launchpad.net/calibre/+bug/2139316) | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | ✅ | ❌ | ❔ | ❌ | [💀](https://github.com/booklore-app/booklore/issues/1793#issuecomment-3700847691) |
-| [Duplicate Handling](features.md#duplicate-handling) | ⭐ | ✅5️⃣ | ❔ | ❌ | ❔ | ✅5️⃣ | ❔ |
-| [User Defined Tags](features.md#user-defined-tags) | ⭐ | ✅8️⃣ | ❔ | ❔ | ❔ | ✅8️⃣ | ✅ |
+| [Search](features.md#search) | ⭐ | ⭐ | ❔ | ✅ | ❔ | ⭐ | ❔ |
+| [Full Text Search](features.md#full-text-search) | [✅8️⃣](https://bugs.launchpad.net/calibre/+bug/2139316) | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | ✅ | ❌ | ❔ | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | [💀](https://github.com/booklore-app/booklore/issues/1793#issuecomment-3700847691) |
+| [Duplicate Handling](features.md#duplicate-handling) | ⭐ | ✅ | ❔ | ❌ | ❔ | ✅ | ❔ |
+| [User Defined Tags](features.md#user-defined-tags) | ⭐ | ✅ | ❔ | ❔ | ❔ | ✅ | ✅ |
 | [Docker Installation](features.md#docker-installation) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | [⭐](https://komga.org/docs/installation/docker) | [✅8️⃣](https://wiki.kavitareader.com/installation/docker/dockerhub/) | [✅6️⃣](https://www.stumpapp.dev/installation/docker) | [⭐](https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended) | [⭐](https://github.com/booklore-app/booklore#-deploy-with-docker) |
-| [Basic Editing](features.md#basic-editing) | ⭐ | ✅8️⃣ | ❔ | ❔ | ❔ | ✅8️⃣ | ❔ |
-| [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅8️⃣ | ❔ | ✅ | ❔ | ✅8️⃣ | ✅ |
-| [Authentication Providers](features.md#authentication-providers) | ❌ | ✅8️⃣ | ❔ | ✅ | ❔ | ✅8️⃣ | ✅ |
+| [Basic Editing](features.md#basic-editing) | ⭐ | ✅ | ❔ | ❔ | ❔ | ✅ | ❔ |
+| [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅ | ❔ | ✅ | ❔ | ✅ | ✅ |
+| [Authentication Providers](features.md#authentication-providers) | ❌ | ✅ | ❔ | ✅ | ❔ | ✅ | ✅ |
 
 
 > [!NOTE]
@@ -68,11 +68,14 @@ This project aims to track and compare the feature set between the many differen
 
 - Freeness: Only if all features are free without payment or subscription.
 - OPDS: Only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
+- Search: Only if support search by title, author, description and tags.
 - Full Text Search: Only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
 [fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching).
 - Docker installation: Only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
 - Duplicate Handling: Only if support duplicate detection and merging.
 - Android/iOS/Desktop/Web App: Only if have an official app with support to reading without leaving the app.
+
+PS: To reduce bias, subjective scores are only given after score methodology is applied for the row.
 
 ## References and links
 
