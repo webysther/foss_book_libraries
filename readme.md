@@ -15,6 +15,7 @@ This project aims to track and compare the feature set between the many differen
 🚧 = Feature may exist but may not be practical or officially released
 ❔ = Unknown information (help needed!)
 ❌ = Feature does not yet exist
+💀 = Not planned (no PRs accepted / unlikely to be implemented)
 #️⃣ = Subjective measure of feature quality (on scale of 0-10)
 ```
 
@@ -44,7 +45,7 @@ This project aims to track and compare the feature set between the many differen
 | [Shelfs](features.md#shelfs) | ✅ | ✅ | ❔ | ❔ | ❔ | ✅ | ❔ |
 | [Sharing](features.md#sharing) | ✅ | ✅ | ❔ | ❔ | ❔ | ✅ | ❔ |
 | [Search](features.md#search) | ⭐ | ⭐ | ❔ | ✅ | ❔ | ✅ | ❔ |
-| [Full Text Search](features.md#full-text-search) | ✅8️⃣ | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | ✅ | ❌ | ❔ | ❌ | ❔ |
+| [Full Text Search](features.md#full-text-search) | [✅8️⃣](https://bugs.launchpad.net/calibre/+bug/2139316) | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | ✅ | ❌ | ❔ | ❌ | [💀](https://github.com/booklore-app/booklore/issues/1793#issuecomment-3700847691) |
 | [Duplicate Handling](features.md#duplicate-handling) | ⭐ | ✅5️⃣ | ❔ | ❌ | ❔ | ✅5️⃣ | ❔ |
 | [User Defined Tags](features.md#user-defined-tags) | ⭐ | ✅8️⃣ | ❔ | ❔ | ❔ | ✅8️⃣ | ✅ |
 | [Docker Installation](features.md#docker-installation) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | [⭐](https://komga.org/docs/installation/docker) | [✅8️⃣](https://wiki.kavitareader.com/installation/docker/dockerhub/) | [✅6️⃣](https://www.stumpapp.dev/installation/docker) | [⭐](https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended) | [⭐](https://github.com/booklore-app/booklore#-deploy-with-docker) |
@@ -57,6 +58,11 @@ This project aims to track and compare the feature set between the many differen
 > This list is not exhaustive and is provided on a best-effort basis.
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
+
+## Notes on specific projects
+
+- Calibre unlikely to be implemented fuzzy search: [Bug #2139316](https://bugs.launchpad.net/calibre/+bug/2139316)
+- Booklore Full Text Search is not planned: [Issue 1793](https://github.com/booklore-app/booklore/issues/1793#issuecomment-3700847691)
 
 ## Score Methodology; or how to got ⭐
 

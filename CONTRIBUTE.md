@@ -92,6 +92,7 @@ Each feature defines a row in the comparison table:
 ### Score Value Conversion
 
 The system automatically converts score values to an emoji representation:
+- `"xx"` → 💀 (not planned)
 - `"x"` → ❌ (not available)
 - `"?"` → 🟡 (unknown information)
 - `"wip"` → 🚧 (work in progress)

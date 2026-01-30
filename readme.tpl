@@ -15,6 +15,7 @@ This project aims to track and compare the feature set between the many differen
 🚧 = Feature may exist but may not be practical or officially released
 ❔ = Unknown information (help needed!)
 ❌ = Feature does not yet exist
+💀 = Not planned (no PRs accepted / unlikely to be implemented)
 #️⃣ = Subjective measure of feature quality (on scale of 0-10)
 ```
 
@@ -27,6 +28,11 @@ This project aims to track and compare the feature set between the many differen
 > This list is not exhaustive and is provided on a best-effort basis.
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
+
+## Notes on specific projects
+
+- Calibre unlikely to be implemented fuzzy search: [Bug #2139316](https://bugs.launchpad.net/calibre/+bug/2139316)
+- Booklore Full Text Search is not planned: [Issue 1793](https://github.com/booklore-app/booklore/issues/1793#issuecomment-3700847691)
 
 ## Score Methodology; or how to got ⭐
 
