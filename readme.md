@@ -59,7 +59,7 @@ This project aims to track and compare the feature set between the many differen
 
 ## Methodology
 
-- Freeness: Got 10 only without features limited to paid plans.
+- Freeness: Got 10 only if all features are free without payment or subscription.
 - OPDS: Got 10 only if support OPDS 1 and 2.
 - Full Text Search: Got 10 only if support full text with fuzzy search.
 
