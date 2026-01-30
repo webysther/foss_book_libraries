@@ -25,7 +25,7 @@ Tip: Hover over emoji for additional information (🔗 link to related issue, �
 | [License](features.md#license) | ![?](https://img.shields.io/github/license/kovidgoyal/calibre?label=%20) | ![?](https://img.shields.io/github/license/janeczku/calibre-web?label=%20) |
 | [Demo](features.md#demo) | ❌ | ❌ |
 | [Freeness](features.md#freeness) | ✅🔟 | ✅🔟 |
-| [Automatic Mobile Upload](features.md#automatic-mobile-upload) | ❌ | ❌ |
+| [Mobile Upload](features.md#mobile-upload) | ❌ | ❌ |
 | [Web App](features.md#web-app) | ✅5️⃣ | ✅🔟 |
 | [Android App](features.md#android-app) | ❌ | [🚧6️⃣](https://github.com/doen1el/calibre-web-companion) |
 | [iOS App](features.md#ios-app) | ❌ | ❌ |

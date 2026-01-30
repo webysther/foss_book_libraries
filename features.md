@@ -30,7 +30,7 @@ Does the project provide a demo instance
 
 Is the project completely and forever 'Free', or does it have a subscription plan or support model?
 
-## Automatic Mobile Upload
+## Mobile Upload
 
 Is there a method to automatically upload books from a mobile device?
 
