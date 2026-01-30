@@ -10,6 +10,7 @@ This project aims to track and compare the feature set between the many differen
 ## Comparison
 
 ```text
+⭐ = Full support (10/10 score)
 ✅ = Feature exists in at least a limited fashion
 🚧 = Feature may exist but may not be practical or officially released
 🟡 = Unknown information (help needed!)
@@ -27,15 +28,15 @@ This project aims to track and compare the feature set between the many differen
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
 
-## Score Methodology
+## Score Methodology; or how to got ⭐
 
-- Freeness: Got 10 only if all features are free without payment or subscription.
-- OPDS: Got 10 only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
-- Full Text Search: Got 10 only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
+- Freeness: Only if all features are free without payment or subscription.
+- OPDS: Only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
+- Full Text Search: Only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
 [fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching).
-- Docker installation: Got 10 only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
-- Duplicate Handling: Got 10 only if support duplicate detection and merging.
-- Android/iOS/Desktop/Web App: Got 10 only if have an official app with support to reading without leaving the app.
+- Docker installation: Only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
+- Duplicate Handling: Only if support duplicate detection and merging.
+- Android/iOS/Desktop/Web App: Only if have an official app with support to reading without leaving the app.
 
 ## References and links
 

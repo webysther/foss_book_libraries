@@ -62,7 +62,7 @@ class TestScoreToEmoji(unittest.TestCase):
         self.assertEqual(score_to_emoji("7"), "✅7️⃣")
         self.assertEqual(score_to_emoji("8"), "✅8️⃣")
         self.assertEqual(score_to_emoji("9"), "✅9️⃣")
-        self.assertEqual(score_to_emoji("10"), "✅🔟")
+        self.assertEqual(score_to_emoji("10"), "⭐")
 
     def test_plain_numbers_int(self):
         """Test plain integer numbers return green tick with emoji number."""
@@ -70,7 +70,7 @@ class TestScoreToEmoji(unittest.TestCase):
         self.assertEqual(score_to_emoji(1), "✅1️⃣")
         self.assertEqual(score_to_emoji(5), "✅5️⃣")
         self.assertEqual(score_to_emoji(8), "✅8️⃣")
-        self.assertEqual(score_to_emoji(10), "✅🔟")
+        self.assertEqual(score_to_emoji(10), "⭐")
 
     def test_whitespace_handling(self):
         """Test that whitespace is properly stripped."""
@@ -98,8 +98,8 @@ class TestScoreToEmoji(unittest.TestCase):
 
     def test_special_ten(self):
         """Test that 10 gets the special keycap 10 emoji."""
-        self.assertEqual(score_to_emoji("10"), "✅🔟")
-        self.assertEqual(score_to_emoji(10), "✅🔟")
+        self.assertEqual(score_to_emoji("10"), "⭐")
+        self.assertEqual(score_to_emoji(10), "⭐")
         self.assertEqual(score_to_emoji("wip-10"), "🚧🔟")
 
 

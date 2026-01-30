@@ -93,11 +93,12 @@ Each feature defines a row in the comparison table:
 
 The system automatically converts score values to an emoji representation:
 - `"x"` → ❌ (not available)
-- `"0"-"9"` → ✅0️⃣-✅9️⃣ (available with rating)
-- `"10"` → ✅🔟 (perfect score - used sparingly)
-- `"-"` → ✅ Feature exists in at least a limited fashion
-- `"wip-1"` → 🚧1️⃣ (work in progress with rating of 1)
+- `"?"` → 🟡 (unknown information)
 - `"wip"` → 🚧 (work in progress)
+- `"wip-1"` → 🚧1️⃣ (work in progress with rating of 1)
+- `"-"` → ✅ Feature exists in at least a limited fashion
+- `"0"-"9"` → ✅0️⃣-✅9️⃣ (available with rating)
+- `"10"` → ⭐ (perfect score - used sparingly)
 
 ### Data Validation
 

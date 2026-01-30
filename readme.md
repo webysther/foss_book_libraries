@@ -10,6 +10,7 @@ This project aims to track and compare the feature set between the many differen
 ## Comparison
 
 ```text
+⭐ = Full support (10/10 score)
 ✅ = Feature exists in at least a limited fashion
 🚧 = Feature may exist but may not be practical or officially released
 🟡 = Unknown information (help needed!)
@@ -29,25 +30,25 @@ This project aims to track and compare the feature set between the many differen
 | [Last Commit](features.md#last-commit) | ![?](https://img.shields.io/github/last-commit/kovidgoyal/calibre/master?label=%20) | ![?](https://img.shields.io/github/last-commit/janeczku/calibre-web/master?label=%20) | ![?](https://img.shields.io/github/last-commit/gotson/komga/master?label=%20) | ![?](https://img.shields.io/github/last-commit/kareadita/kavita/develop?label=%20) | ![?](https://img.shields.io/github/last-commit/stumpapp/stump/main?label=%20) | ![?](https://img.shields.io/github/last-commit/crocodilestick/calibre-web-automated/main?label=%20) | ![?](https://img.shields.io/github/last-commit/booklore-app/booklore/develop?label=%20) |
 | [Source Language](features.md#source-language) | ![GitHub top language](https://img.shields.io/github/languages/top/kovidgoyal/calibre) | ![GitHub top language](https://img.shields.io/github/languages/top/janeczku/calibre-web) | ![GitHub top language](https://img.shields.io/github/languages/top/gotson/komga) | ![GitHub top language](https://img.shields.io/github/languages/top/kareadita/kavita) | ![GitHub top language](https://img.shields.io/github/languages/top/stumpapp/stump) | ![GitHub top language](https://img.shields.io/github/languages/top/crocodilestick/calibre-web-automated) | ![GitHub top language](https://img.shields.io/github/languages/top/booklore-app/booklore) |
 | [License](features.md#license) | ![?](https://img.shields.io/github/license/kovidgoyal/calibre?label=%20) | ![?](https://img.shields.io/github/license/janeczku/calibre-web?label=%20) | ![?](https://img.shields.io/github/license/gotson/komga?label=%20) | ![?](https://img.shields.io/github/license/Kareadita/Kavita?label=%20) | ![?](https://img.shields.io/github/license/stumpapp/stump?label=%20) | ![?](https://img.shields.io/github/license/crocodilestick/Calibre-Web-Automated?label=%20) | ![?](https://img.shields.io/github/license/booklore-app/booklore?label=%20) |
-| [Demo](features.md#demo) | ❌ | ❌ | ❌ | ✅🔟 | ❌ | ❌ | ✅🔟 |
-| [Freeness](features.md#freeness) | ✅🔟 | ✅🔟 | ✅🔟 | [🚧](https://wiki.kavitareader.com/kavita+/) | ✅🔟 | ✅🔟 | ✅🔟 |
+| [Demo](features.md#demo) | ❌ | ❌ | ❌ | ⭐ | ❌ | ❌ | ⭐ |
+| [Freeness](features.md#freeness) | ⭐ | ⭐ | ⭐ | [🚧](https://wiki.kavitareader.com/kavita+/) | ⭐ | ⭐ | ⭐ |
 | [Mobile Upload](features.md#mobile-upload) | 🟡 | ✅ | 🟡 | ❌ | ❌ | ✅ | ✅ |
-| [Web App](features.md#web-app) | ✅ | ✅🔟 | ✅🔟 | ✅🔟 | ✅ | ✅🔟 | ✅🔟 |
+| [Web App](features.md#web-app) | ✅ | ⭐ | ⭐ | ⭐ | ✅ | ⭐ | ⭐ |
 | [Android App](features.md#android-app) | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | 🟡 | ❌ | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | ❌ |
 | [iOS App](features.md#ios-app) | ❌ | ❌ | 🟡 | ❌ | ❌ | ❌ | ❌ |
-| [Desktop App](features.md#desktop-app) | ✅🔟 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Desktop App](features.md#desktop-app) | ⭐ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Annotations](features.md#annotations) | ✅ | ❌ | 🟡 | 🟡 | 🟡 | 🟡 | ✅ |
 | [OPDS Support](features.md#opds-support) | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | [Reading Progress Sync](features.md#reading-progress-sync) | ✅ | ✅ | 🟡 | ✅ | 🟡 | ✅ | ✅ |
 | [Existing Folders](features.md#existing-folders) | ✅ | ✅ | 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
 | [Shelfs](features.md#shelfs) | ✅ | ✅ | 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
 | [Sharing](features.md#sharing) | ✅ | ✅ | 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
-| [Search](features.md#search) | ✅🔟 | ✅🔟 | 🟡 | ✅ | 🟡 | ✅ | 🟡 |
+| [Search](features.md#search) | ⭐ | ⭐ | 🟡 | ✅ | 🟡 | ✅ | 🟡 |
 | [Full Text Search](features.md#full-text-search) | ✅8️⃣ | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | ✅ | ❌ | 🟡 | ❌ | 🟡 |
-| [Duplicate Handling](features.md#duplicate-handling) | ✅🔟 | ✅5️⃣ | 🟡 | ❌ | 🟡 | ✅5️⃣ | 🟡 |
-| [User Defined Tags](features.md#user-defined-tags) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | ✅ |
-| [Docker Installation](features.md#docker-installation) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | [✅🔟](https://komga.org/docs/installation/docker) | [✅8️⃣](https://wiki.kavitareader.com/installation/docker/dockerhub/) | [✅6️⃣](https://www.stumpapp.dev/installation/docker) | [✅🔟](https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended) | [✅🔟](https://github.com/booklore-app/booklore#-deploy-with-docker) |
-| [Basic Editing](features.md#basic-editing) | ✅🔟 | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
+| [Duplicate Handling](features.md#duplicate-handling) | ⭐ | ✅5️⃣ | 🟡 | ❌ | 🟡 | ✅5️⃣ | 🟡 |
+| [User Defined Tags](features.md#user-defined-tags) | ⭐ | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | ✅ |
+| [Docker Installation](features.md#docker-installation) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | [⭐](https://komga.org/docs/installation/docker) | [✅8️⃣](https://wiki.kavitareader.com/installation/docker/dockerhub/) | [✅6️⃣](https://www.stumpapp.dev/installation/docker) | [⭐](https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended) | [⭐](https://github.com/booklore-app/booklore#-deploy-with-docker) |
+| [Basic Editing](features.md#basic-editing) | ⭐ | ✅8️⃣ | 🟡 | 🟡 | 🟡 | ✅8️⃣ | 🟡 |
 | [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅8️⃣ | 🟡 | ✅ | 🟡 | ✅8️⃣ | ✅ |
 | [Authentication Providers](features.md#authentication-providers) | ❌ | ✅8️⃣ | 🟡 | ✅ | 🟡 | ✅8️⃣ | ✅ |
 
@@ -57,15 +58,15 @@ This project aims to track and compare the feature set between the many differen
 > No guarantees are made about its accuracy or completeness.
 > If you find an error or omission, please report it and submit a fix when possible.
 
-## Score Methodology
+## Score Methodology; or how to got ⭐
 
-- Freeness: Got 10 only if all features are free without payment or subscription.
-- OPDS: Got 10 only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
-- Full Text Search: Got 10 only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
+- Freeness: Only if all features are free without payment or subscription.
+- OPDS: Only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
+- Full Text Search: Only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
 [fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching).
-- Docker installation: Got 10 only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
-- Duplicate Handling: Got 10 only if support duplicate detection and merging.
-- Android/iOS/Desktop/Web App: Got 10 only if have an official app with support to reading without leaving the app.
+- Docker installation: Only if have an official docker image and is provided in docker hub and ghcr.io for the stable release.
+- Duplicate Handling: Only if support duplicate detection and merging.
+- Android/iOS/Desktop/Web App: Only if have an official app with support to reading without leaving the app.
 
 ## References and links
 
