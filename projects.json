@@ -21,7 +21,8 @@
       "full_text_search": "7",
       "duplicate_handling": "10",
       "user_defined_tags": "10",
-      "docker_installation": "https://docs.linuxserver.io/images/docker-calibre",
+      "docker_installation": "wip-6",
+      "docker_installation_url": "https://docs.linuxserver.io/images/docker-calibre",
       "basic_editing": "10",
       "multiple_user_support": "x",
       "authentication_providers": "x"

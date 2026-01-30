@@ -17,7 +17,7 @@ Tip: Hover over emoji for additional information (🔗 link to related issue, �
 
 | Feature | [Calibre](https://github.com/kovidgoyal/calibre) |
 | :------- | ------------------------------------------------ |
-| Logo | <img src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/calibre-icon.png" style="width: 50px"  alt="Calibre Logo"/> |
+| Logo | <img src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png" style="width: 50px"  alt="Calibre Logo"/> |
 | [Github Stars](features.md#github-stars) | ![?](https://img.shields.io/github/stars/kovidgoyal/calibre?label=%20) |
 | [Contributors](features.md#contributors) | ![?](https://img.shields.io/github/contributors/kovidgoyal/calibre?label=%20) |
 | [Last Commit](features.md#last-commit) | ![?](https://img.shields.io/github/last-commit/kovidgoyal/calibre/master?label=%20) |
@@ -40,7 +40,7 @@ Tip: Hover over emoji for additional information (🔗 link to related issue, �
 | [Full Text Search](features.md#full-text-search) | ✅7️⃣ |
 | [Duplicate Handling](features.md#duplicate-handling) | ✅🔟 |
 | [User Defined Tags](features.md#user-defined-tags) | ✅🔟 |
-| [Docker Installation](features.md#docker-installation) | https://docs.linuxserver.io/images/docker-calibre |
+| [Docker Installation](features.md#docker-installation) | [🚧6️⃣](https://docs.linuxserver.io/images/docker-calibre) |
 | [Basic Editing](features.md#basic-editing) | ✅🔟 |
 | [Multiple User Support](features.md#multiple-user-support) | ❌ |
 | [Authentication Providers](features.md#authentication-providers) | ❌ |
