@@ -13,6 +13,7 @@
       "android_app": "x",
       "ios_app": "x",
       "desktop_app": "10",
+      "annotations": "7",
       "opds_support": "8",
       "reading_progress_sync": "10",
       "existing_folders": "8",
@@ -58,8 +59,7 @@
       "basic_editing": "8",
       "multiple_user_support": "8",
       "authentication_providers": "8"
-    }
-    ,
+    },
     {
       "name": "Komga",
       "repo": "gotson/komga",
@@ -85,6 +85,34 @@
       "user_defined_tags": "8",
       "docker_installation": "10",
       "basic_editing": "7",
+      "multiple_user_support": "10",
+      "authentication_providers": "8"
+    },
+    {
+      "name": "Kavita",
+      "repo": "Kareadita/Kavita",
+      "branch": "master",
+      "logo_url": "https://raw.githubusercontent.com/Kareadita/Kavita/develop/Logo/kavita.svg",
+      "logo_alt": "Kavita Logo",
+      "demo": "x",
+      "freeness": "wip-5",
+      "freeness_url": "https://wiki.kavitareader.com/kavita+/",
+      "web_app": "10",
+      "android_app": "x",
+      "ios_app": "x",
+      "desktop_app": "x",
+      "annotations": "x",
+      "opds_support": "9",
+      "reading_progress_sync": "9",
+      "existing_folders": "8",
+      "shelfs": "8",
+      "sharing": "8",
+      "search": "8",
+      "full_text_search": "6",
+      "duplicate_handling": "6",
+      "user_defined_tags": "8",
+      "docker_installation": "10",
+      "basic_editing": "8",
       "multiple_user_support": "10",
       "authentication_providers": "8"
     }
