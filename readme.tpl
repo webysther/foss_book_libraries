@@ -41,6 +41,7 @@ This project aims to track and compare the feature set between the many differen
 ## Score Methodology; or how to got ⭐
 
 - Freeness: Only if all features are free without payment or subscription.
+- Demo: Only if provide a public demo with no registration required.
 - OPDS: Only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
 - Search: Only if support search by title, author, description and tags.
 - Full Text Search: Only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 

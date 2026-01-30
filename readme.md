@@ -41,7 +41,7 @@ This project aims to track and compare the feature set between the many differen
 | [Desktop App](features.md#desktop-app) | ⭐ | ❌ | [⭐](https://komga.org/docs/installation/desktop/) | ❌ | ❌ | ❌ | ❌ |
 | [Annotations](features.md#annotations) | ✅ | ❌ | [❌](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ❔ | ✅ |
 | [OPDS Support](features.md#opds-support) | ✅ | ✅ | [⭐](https://komga.org/docs/guides/opds) | ✅ | ❌ | ✅ | ✅ |
-| [Reading Progress Sync](features.md#reading-progress-sync) | ✅ | ✅ | [⭐](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | ❔ | ✅ | ✅ |
+| [Reading Progress Sync](features.md#reading-progress-sync) | ✅ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | ❔ | ✅ | ✅ |
 | [Existing Folders](features.md#existing-folders) | ✅ | ✅ | [❌](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ✅ | ❔ |
 | [Shelfs](features.md#shelfs) | ✅ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ✅ | ❔ |
 | [Sharing](features.md#sharing) | ✅ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ✅ | ❔ |
@@ -71,6 +71,7 @@ This project aims to track and compare the feature set between the many differen
 ## Score Methodology; or how to got ⭐
 
 - Freeness: Only if all features are free without payment or subscription.
+- Demo: Only if provide a public demo with no registration required.
 - OPDS: Only if support OPDS [stable v1.2](https://specs.opds.io/opds-1.2) and [draft v2](https://drafts.opds.io/opds-2.0).
 - Search: Only if support search by title, author, description and tags.
 - Full Text Search: Only if support [full text search](https://en.wikipedia.org/wiki/Full-text_search) and 
