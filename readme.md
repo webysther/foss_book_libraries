@@ -13,6 +13,7 @@ This project aims to track and compare the feature set between the many differen
 ⭐ = Full support (10/10 score)
 ✅ = Feature exists in at least a limited fashion
 🚧 = Feature may exist but may not be practical or officially released
+💰 = paid feature provided by third party or not
 ❔ = Unknown information (help needed!)
 ❌ = Feature does not yet exist
 💀 = Not planned (no PRs accepted / unlikely to be implemented)
