@@ -12,9 +12,10 @@ There are many great free and open-source alternatives to closed source and/or p
 🟡 = Unknown information (help needed!)
 ❌ = Feature does not yet exist
 #️⃣ = Subjective measure of feature quality (on scale of 0-10)
-Tip: Hover over emoji for additional information (🔗 link to related issue, 🔑 demo credentials, etc)
 ```
 
+> [!TIP]
+> Hover over emoji for additional information (🔗 link to related issue, 🔑 demo credentials, etc)
 
 | Feature | [Calibre](https://github.com/kovidgoyal/calibre) | [Calibre Web](https://github.com/janeczku/calibre-web) | [Komga](https://github.com/gotson/komga) | [Kavita](https://github.com/Kareadita/Kavita) | [Stump](https://github.com/stumpapp/stump) | [Calibre Web Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | [Booklore](https://github.com/booklore-app/booklore) |
 | :------- | ------------------------------------------------ | ------------------------------------------------------ | ---------------------------------------- | --------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------- | ---------------------------------------------------- |
