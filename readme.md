@@ -69,4 +69,3 @@ Contributions are welcome. Please see [CONTRIBUTE.md](CONTRIBUTE.md) for details
 ## Support
 
 Maintaining this list takes time. If you found this comparison useful, consider supporting via [GitHub Sponsors](https://github.com/sponsors/webysther)
-````
