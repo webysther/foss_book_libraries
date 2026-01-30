@@ -2,7 +2,7 @@
 
 There are many great free and open-source alternatives to closed source and/or paid book libraries. This project aims to track and compare the feature set between the many different options with a focus on 'Gratis' (free as in free beer) open source photo libraries. 'Libre' (free as in free speech) projects are also welcome, but will likely need to be submitted via a pull request since the time in testing each different project is significant.
 
-> [!CAUTION]
+> [!WARNING]
 > This repository displays both objective and subjective measures of feature quality.
 > The owner of this repository reserves the right to make changes to any pull request.
 
@@ -27,8 +27,8 @@ For links and references related to library e-book projects, see:
 
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books)
 
-> [!INFO]
-> An HTML version of this comparison table is available at: https://webysther.github.io/foss_book_libraries/
+> [!NOTE]
+> Check HTML version of this comparison table [here](https://webysther.github.io/foss_book_libraries/)
 
 ## 👋 More Feature Comparisons
 
