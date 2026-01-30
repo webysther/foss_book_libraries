@@ -78,6 +78,23 @@ This project aims to track and compare the feature set between the many differen
 > [!IMPORTANT]
 > To help reduce bias, subjective scores are only assigned after the scoring methodology for that row has been defined.
 
+### Books certification level 1 test 💎
+
+A simple way to reward apps that focus on the most fundamental user experience: 
+reading smoothly, resuming where you left off, and finding content quickly, all within the same app.
+
+All need to happen in same app:
+
+- Be able to open an ebook navegate to any page, close, open again and return to the same page.
+- Be able to open a comic cbz in streaming fashion.
+- Be able to highlight text inside an ebook and keep synced at user level.
+- Be able to search inside an open ebook and pdf.
+- Be able to search for a word in all ebooks and pdfs in the library.
+
+### Books certification level 2 test 💎💎
+
+TBA when one application passes level 1.
+
 ## References and links
 
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books)
