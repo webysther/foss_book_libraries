@@ -8,6 +8,7 @@
       "logo_alt": "Calibre Logo",
       "demo": "x",
       "freeness": "10",
+      "mobile_upload": "x",
       "web_app": "5",
       "android_app": "x",
       "ios_app": "x",
@@ -35,6 +36,7 @@
       "logo_alt": "Calibre Web Logo",
       "demo": "x",
       "freeness": "10",
+      "mobile_upload": "5",
       "web_app": "10",
       "android_app": "wip-6",
       "android_app_url": "https://github.com/doen1el/calibre-web-companion",
@@ -66,6 +68,7 @@
       "logo_alt": "Komga Logo",
       "demo": "x",
       "freeness": "10",
+      "mobile_upload": "x",
       "web_app": "10",
       "android_app": "x",
       "ios_app": "x",
@@ -138,7 +141,7 @@
       "link": "features.md#mobile-upload"
     },
     {
-      "name": "Web App",
+      "name": "Web App", 
       "link": "features.md#web-app"
     },
     {
