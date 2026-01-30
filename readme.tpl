@@ -21,7 +21,7 @@ Tip: Hover over emoji for additional information (🔗 link to related issue, �
 
 For links and references related to library e-book projects, see:
 
-- [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books) — public-domain e-books
+- [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books)
 
 An HTML version of this comparison table is available at: https://webysther.github.io/foss_book_libraries/
 
@@ -37,8 +37,5 @@ Contributions are welcome. Please see [CONTRIBUTE.md](CONTRIBUTE.md) for details
 
 ## 🆘 Support
 
-Maintaining this list takes time. If you found this comparison useful, consider supporting via Liberapay or GitHub Sponsors:
-
-<a href="https://github.com/sponsors/webysther">Github Sponsors</a>
-
+Maintaining this list takes time. If you found this comparison useful, consider supporting via [GitHub Sponsors](https://github.com/sponsors/webysther)
 ````
