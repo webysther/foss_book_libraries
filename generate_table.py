@@ -48,7 +48,7 @@ def score_to_emoji(score):
         return "❌"
     
     if score_str == "?":
-        return "🟡"
+        return "❔"
     
     if score_str == "-":
         return "✅"
