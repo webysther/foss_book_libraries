@@ -36,23 +36,23 @@ This project aims to track and compare the feature set between the many differen
 | [Freeness](features.md#freeness) | ⭐ | ⭐ | ⭐ | [💰](https://wiki.kavitareader.com/kavita+/) | ⭐ | ⭐ | ⭐ |
 | [Mobile Upload](features.md#mobile-upload) | ❔ | ✅ | [❌](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❌ | ❌ | ✅ | ✅ |
 | [Web App](features.md#web-app) | ✅ | ⭐ | ⭐ | ⭐ | ✅ | ⭐ | ⭐ |
-| [Android App](features.md#android-app) | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | [✅](https://komga.org/docs/guides/opds) | ❌ | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | ❌ |
-| [iOS App](features.md#ios-app) | ❌ | ❌ | [✅](https://komga.org/docs/guides/opds) | ❌ | ❌ | ❌ | ❌ |
+| [Android App](features.md#android-app) | ❌ | [🚧](https://github.com/doen1el/calibre-web-companion) | [✅](https://komga.org/docs/guides/opds) | ❌ | [🚧](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | [🚧](https://github.com/doen1el/calibre-web-companion) | ❌ |
+| [iOS App](features.md#ios-app) | ❌ | ❌ | [✅](https://komga.org/docs/guides/opds) | ❌ | [🚧](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ❌ | ❌ |
 | [Desktop App](features.md#desktop-app) | ⭐ | ❌ | [⭐](https://komga.org/docs/installation/desktop/) | ❌ | ❌ | ❌ | ❌ |
-| [Annotations](features.md#annotations) | ✅ | ❌ | [❌](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ❔ | ✅ |
-| [OPDS Support](features.md#opds-support) | ✅ | ✅ | [⭐](https://komga.org/docs/guides/opds) | ✅ | ❌ | ✅ | ✅ |
-| [Reading Progress Sync](features.md#reading-progress-sync) | ✅ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | ❔ | ✅ | ✅ |
-| [Existing Folders](features.md#existing-folders) | ✅ | ✅ | [❌](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ✅ | ❔ |
+| [Annotations](features.md#annotations) | ✅ | ❌ | [❌](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | [🚧](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ❔ | ✅ |
+| [OPDS Support](features.md#opds-support) | ✅ | ✅ | [⭐](https://komga.org/docs/guides/opds) | ✅ | [⭐](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ✅ | ✅ |
+| [Reading Progress Sync](features.md#reading-progress-sync) | ✅ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | [✅](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ✅ | ✅ |
+| [Existing Folders](features.md#existing-folders) | ❌ | ❌ | [❌](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | [✅](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ✅ | ❔ |
 | [Shelfs](features.md#shelfs) | ✅ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ✅ | ❔ |
-| [Sharing](features.md#sharing) | ✅ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ✅ | ❔ |
-| [Search](features.md#search) | ⭐ | ⭐ | [⭐](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | ❔ | ⭐ | ❔ |
+| [Sharing](features.md#sharing) | ✅ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | [✅](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ✅ | ❔ |
+| [Search](features.md#search) | ⭐ | ⭐ | [⭐](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | [✅](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ⭐ | ❔ |
 | [Full Text Search](features.md#full-text-search) | [✅8️⃣](https://bugs.launchpad.net/calibre/+bug/2139316) | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | [✅](https://komga.org/docs/guides/search/) | ❌ | ❔ | [🚧](https://github.com/janeczku/calibre-web/pull/3531) | [💀](https://github.com/booklore-app/booklore/issues/1793#issuecomment-3700847691) |
-| [Duplicate Handling](features.md#duplicate-handling) | ⭐ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❌ | ❔ | ✅ | ❔ |
+| [Duplicate Handling](features.md#duplicate-handling) | ⭐ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❌ | [✅](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ✅ | ❔ |
 | [User Defined Tags](features.md#user-defined-tags) | ⭐ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ✅ | ✅ |
 | [Docker Installation](features.md#docker-installation) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre) | [✅5️⃣](https://docs.linuxserver.io/images/docker-calibre-web) | [⭐](https://komga.org/docs/installation/docker) | [✅8️⃣](https://wiki.kavitareader.com/installation/docker/dockerhub/) | [✅6️⃣](https://www.stumpapp.dev/installation/docker) | [⭐](https://github.com/crocodilestick/Calibre-Web-Automated#using-docker-compose-recommended) | [⭐](https://github.com/booklore-app/booklore#-deploy-with-docker) |
 | [Basic Editing](features.md#basic-editing) | ⭐ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ❔ | ❔ | ✅ | ❔ |
-| [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | ❔ | ✅ | ✅ |
-| [Authentication Providers](features.md#authentication-providers) | ❌ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | ❔ | ✅ | ✅ |
+| [Multiple User Support](features.md#multiple-user-support) | ❌ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | [✅](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ✅ | ✅ |
+| [Authentication Providers](features.md#authentication-providers) | ❌ | ✅ | [✅](https://github.com/gotson/komga/discussions/2211#discussioncomment-15648324) | ✅ | [🚧](https://github.com/stumpapp/stump/discussions/919#discussioncomment-15651011) | ✅ | ✅ |
 
 
 > [!NOTE]
