@@ -67,7 +67,7 @@
       "name": "Komga",
       "repo": "gotson/komga",
       "branch": "master",
-      "logo_url": "https://raw.githubusercontent.com/gotson/komga/master/.github/readme-images/app-icon.png",
+      "logo_url": "https://komga.org/img/logo.svg",
       "logo_alt": "Komga Logo",
       "demo": "10",
       "demo_url": "https://komga.org/docs/introduction/#demo",
