@@ -4,6 +4,7 @@ There are many great free and open-source alternatives to closed source and/or p
 
 > [!WARNING]
 > This repository displays both objective and subjective measures of feature quality.
+>
 > The owner of this repository reserves the right to make changes to any pull request.
 
 ## ⚖️ Comparison
