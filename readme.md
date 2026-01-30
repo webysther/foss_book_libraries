@@ -17,7 +17,7 @@ Tip: Hover over emoji for additional information (ðŸ”— link to related issue, ðŸ
 
 | Feature | [Calibre](https://github.com/kovidgoyal/calibre) | [Calibre Web](https://github.com/janeczku/calibre-web) |
 | :------- | ------------------------------------------------ | ------------------------------------------------------ |
-| Logo | <img src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png" style="width: 50px"  alt="Calibre Logo"/> | <img src="https://raw.githubusercontent.com/janeczku/calibre-web/blob/master/cps/static/icon.png" style="width: 50px"  alt="Calibre Web Logo"/> |
+| Logo | <img src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png" style="width: 50px"  alt="Calibre Logo"/> | <img src="https://raw.githubusercontent.com/janeczku/calibre-web/master/cps/static/icon.png" style="width: 50px"  alt="Calibre Web Logo"/> |
 | [Github Stars](features.md#github-stars) | ![?](https://img.shields.io/github/stars/kovidgoyal/calibre?label=%20) | ![?](https://img.shields.io/github/stars/janeczku/calibre-web?label=%20) |
 | [Contributors](features.md#contributors) | ![?](https://img.shields.io/github/contributors/kovidgoyal/calibre?label=%20) | ![?](https://img.shields.io/github/contributors/janeczku/calibre-web?label=%20) |
 | [Last Commit](features.md#last-commit) | ![?](https://img.shields.io/github/last-commit/kovidgoyal/calibre/master?label=%20) | ![?](https://img.shields.io/github/last-commit/janeczku/calibre-web/master?label=%20) |

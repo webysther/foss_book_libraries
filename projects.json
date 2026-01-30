@@ -31,7 +31,7 @@
       "name": "Calibre Web",
       "repo": "janeczku/calibre-web",
       "branch": "master",
-      "logo_url": "https://raw.githubusercontent.com/janeczku/calibre-web/blob/master/cps/static/icon.png",
+      "logo_url": "https://raw.githubusercontent.com/janeczku/calibre-web/master/cps/static/icon.png",
       "logo_alt": "Calibre Web Logo",
       "demo": "x",
       "freeness": "10",
