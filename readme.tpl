@@ -27,7 +27,8 @@ For links and references related to library e-book projects, see:
 
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#document-management---e-books)
 
-An HTML version of this comparison table is available at: https://webysther.github.io/foss_book_libraries/
+> [!INFO]
+> An HTML version of this comparison table is available at: https://webysther.github.io/foss_book_libraries/
 
 ## 👋 More Feature Comparisons
 
