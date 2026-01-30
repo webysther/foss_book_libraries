@@ -1,4 +1,4 @@
-# Photo Library Features
+# Book Library Features
 
 To clarify the definitions/meanings of the features that are included in the comparison, the below definitions are currently used:
 
@@ -32,7 +32,7 @@ Is the project completely and forever 'Free', or does it have a subscription pla
 
 ## Automatic Mobile Upload
 
-Is there a method to automatically upload images from a mobile device?
+Is there a method to automatically upload books from a mobile device?
 
 ## Web App
 
@@ -50,45 +50,37 @@ Is an ios app provided?
 
 Is a desktop app provided?
 
-## LivePhotos
+## Annotations
 
-Are Live Photos supported? We currently don't differentiate between the different types of Live Photos (Apple, Google, Samsung, etc).
+Can annotations be made on books (e.g. highlights, notes, etc.)?
 
-## Video
+## OPDS Support
 
-Are videos supported?
+Does the project support OPDS (Open Publication Distribution System) for book distribution?
 
-## Geolocation/Map
+## Reading Progress Sync
 
-Can photos be geolocated on a map?
-
-## Discovery
-
-Does the project have a mechanism to aid the user in re-discovering photos. This can include automatic album generation, 'year in review', etc.
+Is reading progress synced across devices?
 
 ## Existing Folders
 
-Are existing photo directory structures preserved and browsable?
+Are existing book directory structures preserved and browsable?
 
-## Albums
+## Shelfs
 
-Can albums be created and organized?
-
-## Slideshow
-
-Is it possible to view photos in an automated slideshow?
-
-## Timeline
-
-Is there a way to view the photos chronologically?
+Can shelf be created and organized?
 
 ## Sharing
 
-Can photos be shared with other users or non-users?
+Can books be shared with other users or non-users?
 
 ## Search
 
-Is there a search for the photos? Does it support semantic search, filtering, or other searching methods?
+Is there a search for the books?
+
+## Full Text Search
+
+Can the full text of books be searched?
 
 ## Duplicate Handling
 
@@ -102,21 +94,13 @@ Can photos have user-defined (not AI) tags applied, and be filtered by those tag
 
 Does the project provide a docker image? Are there example docker-compose deployments?
 
-## Object/Face Recognition
-
-Is there object or face detection included? [We currently do not differentiate between objects and faces](https://github.com/meichthys/foss_photo_libraries/issues/16).
-
 ## Basic Editing
 
-Can photos be edited (i.e. Crop, rotate, simple touch-up, etc).
-
-## EXIF Data
-
-Can EXIF data be viewed or better yet edited?
+Can books metadata be edited (i.e. Title, Description, etc).
 
 ## Multiple User Support
 
-Can there be multiple libraries for different users?
+Can there be multiple users?
 
 ## Authentication Providers
 
