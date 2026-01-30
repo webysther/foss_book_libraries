@@ -57,6 +57,34 @@
       "multiple_user_support": "8",
       "authentication_providers": "8"
     }
+    ,
+    {
+      "name": "Komga",
+      "repo": "gotson/komga",
+      "branch": "master",
+      "logo_url": "https://raw.githubusercontent.com/gotson/komga/master/.github/readme-images/app-icon.png",
+      "logo_alt": "Komga Logo",
+      "demo": "x",
+      "freeness": "10",
+      "web_app": "10",
+      "android_app": "x",
+      "ios_app": "x",
+      "desktop_app": "x",
+      "annotations": "x",
+      "opds_support": "9",
+      "reading_progress_sync": "9",
+      "existing_folders": "8",
+      "shelfs": "8",
+      "sharing": "8",
+      "search": "8",
+      "full_text_search": "7",
+      "duplicate_handling": "6",
+      "user_defined_tags": "8",
+      "docker_installation": "10",
+      "basic_editing": "7",
+      "multiple_user_support": "10",
+      "authentication_providers": "8"
+    }
   ],
   "features": [
     {
