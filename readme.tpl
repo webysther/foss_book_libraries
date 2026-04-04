@@ -79,10 +79,10 @@ TBA when one application passes level 1.
 > [!CAUTION]
 > Please review the data carefully. GitHub stars and other popularity signals can be manipulated, so treat rankings and perceived traction as potentially unreliable and prioritize verifiable features and documentation.
 
-<img src="https://raw.githubusercontent.com/webysther/foss_book_libraries/refs/heads/main/assets/stars/20260130.png" alt="Star History January of 2026"/>
+<img src="https://raw.githubusercontent.com/webysther/foss_book_libraries/refs/heads/main/assets/stars/20260404.png" alt="Star History April of 2026"/>
 
 > Sources: 
-> - [Start history](https://star-history.com): January of 2026
+> - [Start history](https://star-history.com)
 > - Wired: [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://web.archive.org/web/20260130143116/https://www.wired.com/story/github-stars-black-market-coders-cheat/)
 > - arxiv.org: [Six Million (Suspected) Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
 
