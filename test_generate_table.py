@@ -16,6 +16,7 @@ from generate_table import (
     generate_logo_row,
     generate_badge_row,
     generate_license_row,
+    generate_docker_row,
     generate_default_row,
     generate_comparison_table,
     validate_projects_json,
@@ -312,6 +313,78 @@ class TestGenerateLicenseRow(unittest.TestCase):
 
         self.assertIn("github/license/user/app1", result)
         self.assertIn("message=MIT", result)
+
+
+class TestGenerateDockerRow(unittest.TestCase):
+    """Test cases for the generate_docker_row function."""
+
+    def test_standard_docker_pulls(self):
+        """Test docker row falls back to the GitHub repo path."""
+        projects = [{"name": "Test", "repo": "user/test"}]
+
+        result = generate_docker_row(projects)
+
+        self.assertIn("| [Docker Pulls](features.md#docker-pulls)", result)
+        self.assertIn("docker/pulls/user/test", result)
+
+    def test_custom_docker_repo(self):
+        """Test docker row with a custom Docker Hub repo."""
+        projects = [{"name": "Test", "repo": "user/test", "docker_custom": "hub/test"}]
+
+        result = generate_docker_row(projects)
+
+        self.assertIn("docker/pulls/hub/test", result)
+        self.assertNotIn("docker/pulls/user/test", result)
+
+    def test_custom_docker_badge(self):
+        """Test docker row with a complete badge URL for non Docker Hub registries."""
+        projects = [
+            {
+                "name": "Test",
+                "repo": "user/test",
+                "docker_badge_custom": "https://img.shields.io/badge/pulls-1K-blue",
+            }
+        ]
+
+        result = generate_docker_row(projects)
+
+        self.assertIn("![?](https://img.shields.io/badge/pulls-1K-blue)", result)
+        self.assertNotIn("docker/pulls", result)
+
+    def test_custom_badge_takes_precedence_over_custom_repo(self):
+        """Test that docker_badge_custom wins when both custom keys are present."""
+        projects = [
+            {
+                "name": "Test",
+                "repo": "user/test",
+                "docker_custom": "hub/test",
+                "docker_badge_custom": "https://img.shields.io/badge/pulls-1K-blue",
+            }
+        ]
+
+        result = generate_docker_row(projects)
+
+        self.assertIn("badge/pulls-1K-blue", result)
+        self.assertNotIn("docker/pulls/hub/test", result)
+
+    def test_mixed_docker_sources(self):
+        """Test docker row with a mix of standard, custom repo and custom badge."""
+        projects = [
+            {"name": "App1", "repo": "user/app1"},
+            {"name": "App2", "repo": "user/app2", "docker_custom": "hub/app2"},
+            {
+                "name": "App3",
+                "repo": "user/app3",
+                "docker_badge_custom": "https://img.shields.io/badge/pulls-2K-blue",
+            },
+        ]
+
+        result = generate_docker_row(projects)
+
+        self.assertIn("docker/pulls/user/app1", result)
+        self.assertIn("docker/pulls/hub/app2", result)
+        self.assertIn("badge/pulls-2K-blue", result)
+        self.assertEqual(result.count("|"), 5)
 
 
 class TestGenerateDefaultRow(unittest.TestCase):
@@ -735,6 +808,8 @@ class TestValidateProjectsJson(unittest.TestCase):
                     "logo_url": "logo1.png",
                     "logo_alt": "App1 Logo",
                     "license_custom": "Custom",
+                    "docker_custom": "hub/app1",
+                    "docker_badge_custom": "https://img.shields.io/badge/pulls-1K-blue",
                 }
             ],
             "features": [],

@@ -176,6 +176,13 @@ def generate_docker_row(projects):
     row = "| [Docker Pulls](features.md#docker-pulls) "
 
     for project in projects:
+        if "docker_badge_custom" in project:
+            # Projects that publish only outside Docker Hub (e.g. ghcr.io) have no
+            # docker/pulls endpoint, so they supply a complete badge URL instead.
+            badge = f"![?]({project['docker_badge_custom']})"
+            row += f"| {badge} "
+            continue
+
         if "docker_custom" in project:
             repo = project["docker_custom"]
         else:
@@ -293,7 +300,7 @@ def validate_projects_json(data):
 
     # Check for undocumented keys
     # Build standard keys (fields that don't need to be in features)
-    standard_keys = {"name", "repo", "branch", "logo_url", "logo_alt", "license_custom", "docker_custom"}
+    standard_keys = {"name", "repo", "branch", "logo_url", "logo_alt", "license_custom", "docker_custom", "docker_badge_custom"}
 
     # Build feature keys from features array
     feature_keys = set()
