@@ -48,6 +48,10 @@ Each project requires these **mandatory fields**:
 **Optional standard fields**:
 - `branch`: Branch name (defaults to "master" for badges)
 - `license_custom`: Custom license text (overrides GitHub badge)
+- `docker_custom`: Docker Hub repo for the pulls badge (defaults to `repo`)
+- `docker_badge_custom`: Complete badge URL for the Docker Pulls row. Use only when the project
+  publishes outside Docker Hub (e.g. `ghcr.io`), where no `docker/pulls` endpoint exists.
+  Takes precedence over `docker_custom`.
 
 **Feature fields**: Any feature defined in the features array can be added as:
 - `feature_name`: Value indicating the quality of the feature on a scale of 1-10 ("x" means the feature doesn't exist, and prepending 'wip-' means feature is a work in process)
